@@ -1,4 +1,4 @@
-# tokelist
+# Token specifications
 
 # chainId
 Default is 200901
