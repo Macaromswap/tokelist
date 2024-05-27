@@ -4,7 +4,7 @@
 Default is 200901
 
 # address
-Token address
+Token address, make sure your address is lowercase
 
 ## name
 Your token name
